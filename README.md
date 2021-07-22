@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @adirlanz
+- I primarily work in the area of data analysis, and plan to use this to store my R projects and code, and related stuff
+
+WIP: 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+adirlanz/adirlanz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
